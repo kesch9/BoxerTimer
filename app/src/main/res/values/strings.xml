@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoxerTimer</string>
+    <string name="button">Button</string>
+    <string name="Play">Play</string>
+</resources>
